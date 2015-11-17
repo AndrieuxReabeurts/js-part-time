@@ -1,0 +1,11 @@
+.hover-class {
+	opacity: 0.25;
+}
+
+.clicked {
+	background-color: #4562FF; 
+}
+
+li {
+	width: 100px;
+}

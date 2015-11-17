@@ -1,0 +1,18 @@
+.cont {
+	height: 500px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.row {
+	float: left;
+	clear: right;
+}
+
+.size {
+	height: 136px;
+	width: 136px;
+	background-color: red;
+	margin: 15px;
+	float: left;
+}
