@@ -15,31 +15,31 @@ ALREADY DISCUSSED
 - RESTful routing
 - $scope
 
-SATURDAY 11/7 
-Brittany - directives
-Crystal - bootstrap
-Jonathan - Test-Driven Development
+SATURDAY 11/7  
+Brittany - directives  
+Crystal - bootstrap  
+Jonathan - Test-Driven Development  
 Fernando - Opinionated Software
 
-TUESDAY 11/10
-Shay - JSON
+TUESDAY 11/10  
+Shay - JSON  
 Corla - Semantic Markup
 
-TUESDAY 11/17
-Blake - RESTful routing
+TUESDAY 11/17  
+Blake - RESTful routing  
 Marlo - $scope
 
-WEDNESDAY 11/18
-Jack - CSS :before and :after selectors
+WEDNESDAY 11/18  
+Jack - CSS :before and :after selectors  
 Stephan - $digest
 
-SATURDAY 11/21
-Brittany - 
-Cidney - 
-Jonathan - 
+SATURDAY 11/21  
+Brittany -   
+Cidney -   
+Jonathan -   
 Shay - 
 
-TUESDAY 12/1
+TUESDAY 12/1  
 Rory - MEAN stack
 
 UP FOR GRABS
