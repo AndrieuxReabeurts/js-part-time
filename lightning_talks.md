@@ -11,15 +11,15 @@ ALREADY DISCUSSED
 - Test-Driven Development
 - Opinionated Software
 
-SATURDAY 11/7
-Brittany - directives
-Crystal - bootstrap
-Jonathan - Test-Driven Development
-Fernando - Opinionated Software
+SATURDAY 11/7 &nbsp;
+Brittany - directives&nbsp;
+Crystal - bootstrap&nbsp;
+Jonathan - Test-Driven Development&nbsp;
+Fernando - Opinionated Software&nbsp;
 
-TUESDAY 11/10
-Shay - JSON
-Corla - Semantic Markup
+TUESDAY 11/10&nbsp;
+Shay - JSON&nbsp;
+Corla - Semantic Markup&nbsp;
 
 TUESDAY 11/17
 Blake - RESTful routing
