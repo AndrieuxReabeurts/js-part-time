@@ -10,24 +10,37 @@ ALREADY DISCUSSED
 - bootstrap
 - Test-Driven Development
 - Opinionated Software
+- JSON
+- Semantic Markup
+- RESTful routing
+- $scope
 
-SATURDAY 11/7
-Brittany - directives
-Crystal - bootstrap
-Jonathan - Test-Driven Development
+SATURDAY 11/7  
+Brittany - directives  
+Crystal - bootstrap  
+Jonathan - Test-Driven Development  
 Fernando - Opinionated Software
 
-TUESDAY 11/10
-Shay - JSON
+TUESDAY 11/10  
+Shay - JSON  
 Corla - Semantic Markup
 
-TUESDAY 11/17
-Blake - RESTful routing
+TUESDAY 11/17  
+Blake - RESTful routing  
 Marlo - $scope
 
-WEDNESDAY
-Jack - ???
-Stephan - ???
+WEDNESDAY 11/18  
+Jack - CSS :before and :after selectors  
+Stephan - $digest
+
+SATURDAY 11/21  
+Brittany -   
+Cidney -   
+Jonathan -   
+Shay - 
+
+TUESDAY 12/1  
+Rory - MEAN stack
 
 UP FOR GRABS
 - What's the difference between a GET and a POST route?
@@ -41,4 +54,13 @@ UP FOR GRABS
 - factories (angular)
 - services (angular)
 - Red, Green, Refactor
+- Regular Expressions
+- applying scope in custom angular directives
 - callbacks in node
+- express.js
+- Unit testing
+- OAuth
+- bootstrap-ui
+- precompilers
+- $index, $event
+- express.static()
