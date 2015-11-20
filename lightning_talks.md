@@ -54,6 +54,7 @@ UP FOR GRABS
 - factories (angular)
 - services (angular)
 - Red, Green, Refactor
+- applying scope in custom angular directives
 - callbacks in node
 - express.js
 - Unit testing
