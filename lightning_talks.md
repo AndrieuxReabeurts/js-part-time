@@ -34,7 +34,7 @@ Jack - CSS :before and :after selectors
 Stephan - $digest
 
 SATURDAY 11/21  
-Brittany -   
+Brittany -   - "this" and alternatives to "this" in angular
 Cidney -   
 Jonathan -   
 Shay - 
@@ -50,7 +50,6 @@ UP FOR GRABS
 - CSS :before and :after selectors
 - git add -p
 - $digest
-- "this" and alternatives to "this" in angular
 - factories (angular)
 - services (angular)
 - Red, Green, Refactor
